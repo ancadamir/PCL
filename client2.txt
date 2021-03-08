@@ -1,8 +1,4 @@
-/* cliTCPIt.c - Exemplu de client TCP
-   Trimite un nume la server; primeste de la server "Hello nume".
-         
-   Autor: Lenuta Alboaie  <adria@infoiasi.ro> (c)2009
-*/
+/* Suma a doua numere:a,b*/
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
